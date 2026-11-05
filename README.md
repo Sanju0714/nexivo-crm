@@ -1,4 +1,5 @@
-# Nexivo CRM — Full Stack Node.js Project
+# Nexivo CRM – Customer Relationship Management System
+A full-stack CRM application designed to manage customer information, sales leads, and follow-up tasks through a centralized dashboard.
 
 A starter CRM web application built with **Node.js, Express, MongoDB, HTML, CSS and JavaScript**.
 
