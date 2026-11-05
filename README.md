@@ -43,6 +43,5 @@ Protected endpoints require `Authorization: Bearer <token>`.
 ## Before using in a portfolio
 Run and test all flows, customize the interface, add screenshots, and understand each part of the code. Do not commit `.env` or database credentials. This is a learning/portfolio starter, not a security-audited production system; add stronger validation, rate limiting, automated tests, audit logs and deployment hardening before handling real customer data.
 
-## Resume wording (only after you have run, tested and understood it)
 **Nexivo CRM — Full Stack Customer Relationship Management System**  
 Developed a full-stack CRM using Node.js, Express.js, MongoDB, HTML, CSS and JavaScript. Implemented JWT-based authentication, customer and lead management, CRUD operations, sales pipeline tracking, dashboard metrics, search and follow-up task management.
